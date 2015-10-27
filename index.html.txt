@@ -6,7 +6,7 @@
 <tr>
 <td align="center" valign="top">Розташування</td>
 <td align="center" valign="top">Назва</td>
-<td align="center" valign="top">В,м</td>
+<td align="center" valign="top">Висота,м</td>
 </tr>
 <tr>
 <td align="center" valign="top">Півд</td>
