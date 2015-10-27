@@ -1,0 +1,50 @@
+<HTML>
+<TITLE>Водоспади</TITLE>
+<BODY>
+<br><center><i>ЗМІНИ</i></center>
+<table border=2 align="center" width="40%">
+<tr>
+<td align="center" valign="top">Розташування</td>
+<td align="center" valign="top">Назва</td>
+<td align="center" valign="top">Висота,м</td>
+</tr>
+<tr>
+<td align="center" valign="top">Півд</td>
+<td align="center" valign="top">Анхель</td>
+<td align="center" valign="top">1054</td>
+</tr>
+<tr>
+<td align="center" valign="top">Африка</td>
+<td align="center" valign="top">Тугель</td>
+<td align="center" valign="top">953</td>
+</tr>
+<tr>
+<td align="center" valign="top">Півн.</td>
+<td align="center" valign="top">Йосемітськи</td>
+<td align="center" valign="top">727</td>
+</tr>
+<tr>
+<td align="center" valign="top">Євразія</td>
+<td align="center" valign="top">Утигард</td>
+<td align="center" valign="top">610</td>
+</tr>
+<tr>
+<td align="center" valign="top">Океанія</td>
+<td align="center" valign="top">Сатерленд</td>
+<td align="center" valign="top">580</td>
+</tr>
+<tr>
+<td align="center" valign="top">Африка</td>
+<td align="center" valign="top">Вікторія</td>
+<td align="center" valign="top">1220</td>
+</tr>
+<tr>
+<td align="center" valign="top">Півд.</td>
+<td align="center" valign="top">Інуасу</td>
+<td align="center" valign="top">72</td>
+</tr>
+</table>
+
+
+
+</HTML>
